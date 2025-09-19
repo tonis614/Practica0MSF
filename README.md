@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación del estudiante
 Antonio Lopez Reyes \[22212262]; L22212262@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
