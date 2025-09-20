@@ -1,9 +1,9 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=tonis614/Practica0MSF)
+\[!\[Open in MATLAB Online]
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del estudiante
-Antonio Lopez Reyes \[22212262]; L22212262@tectijuana.edu.mx
+## Infromación del\la estudiante
+Nombre Apellido \[No control]: Paul A. Valle \[05211261]; correo1@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -34,8 +34,6 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 Un circuito RLC representa un sistema de segundo orden que modeliza, de manera simplificada, la mecánica pulmonar: El resistor R representa una combinación de la resistencia al flujo de aire Q(t) en las vías respiratorias, el tejido pulmonar y la pared torácica. El inductor L representa la inertancia. Los componentes R y C representan respectivamente las propiedades mecánicas resistivas y de almacenamiento del sistema respiratorio. El objetivo del modelo eléctrico es predecir la respuesta dinámica de la presión alveolar PA(t) a diferentes formas de onda de presión Pao(t) aplicadas en la apertura de las vías respiratorias.
 
-Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo matematico; Simulaciones numericas.
-
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
 2. Modelo de Simulink [.slx].
@@ -47,5 +45,3 @@ Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo mate
 \[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
 
 \[2] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018, Section 4, Page 93.
-
-\[3] N. S. Nise, Control Systems Engineering, 8th ed. Hoboken, New Jersey, USA: John Wiley & Sons, 2020. 
